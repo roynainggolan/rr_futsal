@@ -50,7 +50,7 @@ class CheckForfeitedBookings extends Command
                         'start_time'    => $now->format('H:i:00'),
                         'end_time'      => $booking->end_time,
                         'quantum_start' => $now,
-                        'quantum_end'   => $now->copy()->addMinutes(15),
+                        'quantum_end'   => $now->copy()->addMinutes(5),
                     ]);
                 }
 

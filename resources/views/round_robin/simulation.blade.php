@@ -66,8 +66,8 @@
                         <i class="bx bx-time fs-5"></i>
                     </div>
                     <div>
-                        <h6 class="fw-bold mb-1">Time Quantum ($q = 15\text{ Menit}$)</h6>
-                        <p class="text-muted small mb-0">Setiap proses antrean yang masuk pertama kali diberikan hak eksklusif untuk mengunci slot selama 15 menit untuk menyelesaikan verifikasi transfer.</p>
+                        <h6 class="fw-bold mb-1">Time Quantum ($q = 5\text{ Menit}$)</h6>
+                        <p class="text-muted small mb-0">Setiap proses antrean yang masuk pertama kali diberikan hak eksklusif untuk mengunci slot selama 5 menit untuk menyelesaikan verifikasi transfer.</p>
                     </div>
                 </div>
 
